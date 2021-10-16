@@ -15,5 +15,5 @@ planet_radius = []
 planet_names = []
 
 for planet_data in planet_data_Rows:
-    print(planet_data[3][3])
+    print(planet_data[3])
 # print(planet_mass)
